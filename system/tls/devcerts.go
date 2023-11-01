@@ -26,7 +26,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ponzu-cms/ponzu/system/cfg"
+	"github.com/verseatile/ponzu/system/cfg"
 
 	"github.com/ponzu-cms/ponzu/system/db"
 )
